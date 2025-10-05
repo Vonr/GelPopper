@@ -1,0 +1,3 @@
+displayName = Gel Popper (Pop Slime Minion Projectiles)
+author = Qther
+version = 1.0.0

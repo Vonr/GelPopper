@@ -1,0 +1,7 @@
+# Gel Popper
+
+Makes the projectiles from Queen Slime's minions pop when attacked,
+allowing you to protect yourself when close to the Queen Slime and
+making true melee and whips more viable against her.
+
+Does not pop the larger and slower projectiles spawned by Queen Slime herself.
